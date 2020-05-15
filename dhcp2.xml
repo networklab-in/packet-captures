@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<psml version="0" creator="wireshark/2.2.5">
+<structure>
+<section>No.</section>
+<section>Time</section>
+<section>Source</section>
+<section>Destination</section>
+<section>Protocol</section>
+<section>Length</section>
+<section>Info</section>
+</structure>
+
+<packet>
+<section>208</section>
+<section>92.104396</section>
+<section>0.0.0.0</section>
+<section>255.255.255.255</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Discover - Transaction ID 0xb65f1f5a</section>
+</packet>
+
+<packet>
+<section>209</section>
+<section>92.105164</section>
+<section>aa:bb:cc:00:01:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>64</section>
+<section>Who has 192.168.100.2? Tell 192.168.100.1</section>
+</packet>
+
+<packet>
+<section>214</section>
+<section>93.104506</section>
+<section>0.0.0.0</section>
+<section>255.255.255.255</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Discover - Transaction ID 0xb65f1f5a</section>
+</packet>
+
+<packet>
+<section>215</section>
+<section>94.126388</section>
+<section>192.168.100.1</section>
+<section>192.168.100.2</section>
+<section>DHCP</section>
+<section>346</section>
+<section>DHCP Offer    - Transaction ID 0xb65f1f5a</section>
+</packet>
+
+<packet>
+<section>222</section>
+<section>96.105076</section>
+<section>0.0.0.0</section>
+<section>255.255.255.255</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Request  - Transaction ID 0xb65f1f5a</section>
+</packet>
+
+<packet>
+<section>223</section>
+<section>96.105850</section>
+<section>192.168.100.1</section>
+<section>192.168.100.2</section>
+<section>DHCP</section>
+<section>346</section>
+<section>DHCP ACK      - Transaction ID 0xb65f1f5a</section>
+</packet>
+
+<packet>
+<section>228</section>
+<section>97.106024</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>229</section>
+<section>98.107402</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>234</section>
+<section>99.108717</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>1961</section>
+<section>868.196401</section>
+<section>0.0.0.0</section>
+<section>255.255.255.255</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Discover - Transaction ID 0xc9432067</section>
+</packet>
+
+<packet>
+<section>1962</section>
+<section>868.198709</section>
+<section>192.168.100.1</section>
+<section>192.168.100.2</section>
+<section>DHCP</section>
+<section>346</section>
+<section>DHCP Offer    - Transaction ID 0xc9432067</section>
+</packet>
+
+<packet>
+<section>1967</section>
+<section>869.196095</section>
+<section>0.0.0.0</section>
+<section>255.255.255.255</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Request  - Transaction ID 0xc9432067</section>
+</packet>
+
+<packet>
+<section>1968</section>
+<section>869.201563</section>
+<section>192.168.100.1</section>
+<section>192.168.100.2</section>
+<section>DHCP</section>
+<section>346</section>
+<section>DHCP ACK      - Transaction ID 0xc9432067</section>
+</packet>
+
+<packet>
+<section>1969</section>
+<section>870.195150</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>1974</section>
+<section>871.196053</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>1975</section>
+<section>872.205887</section>
+<section>Private_66:68:00</section>
+<section>Broadcast</section>
+<section>ARP</section>
+<section>68</section>
+<section>Gratuitous ARP for 192.168.100.2 (Request)</section>
+</packet>
+
+<packet>
+<section>2413</section>
+<section>1066.079418</section>
+<section>192.168.100.2</section>
+<section>192.168.100.1</section>
+<section>DHCP</section>
+<section>410</section>
+<section>DHCP Release  - Transaction ID 0x0</section>
+</packet>
+
+</psml>
